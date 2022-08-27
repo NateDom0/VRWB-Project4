@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 675704333857854442}
   - component: {fileID: 2016151306456336935}
   - component: {fileID: 8727118882501608219}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: camera_camera_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90,7 +90,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7509664889135791809}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: camera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ Transform:
   m_GameObject: {fileID: 7313860708412348585}
   m_LocalRotation: {x: 0.6542806, y: 0.26817337, z: -0.26817337, w: 0.6542806}
   m_LocalPosition: {x: 828.63513, y: 649.98413, z: -749.20166}
-  m_LocalScale: {x: 0.45, y: 0.32, z: 0.35}
+  m_LocalScale: {x: 0.5, y: 0.25, z: 0.25}
   m_Children:
   - {fileID: 675704333857854442}
   m_Father: {fileID: 0}

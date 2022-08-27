@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5794506507194880461}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: floodlight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23,14 +23,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1039466837219621814}
-  m_LocalRotation: {x: -0.7065448, y: -0.028186087, z: 0.028186087, w: -0.70654476}
+  m_LocalRotation: {x: 0.7065448, y: 0.028186347, z: -0.028186347, w: 0.7065448}
   m_LocalPosition: {x: 938.6308, y: 659.14166, z: 674.104}
-  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
   m_Children:
   - {fileID: 6520992428156879266}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: -4.569}
 --- !u!1 &1994455756721469104
 GameObject:
   m_ObjectHideFlags: 0
@@ -42,7 +42,7 @@ GameObject:
   - component: {fileID: 6520992428156879266}
   - component: {fileID: 8146854686642110082}
   - component: {fileID: 1861612610259520462}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: floodlight_floodlight.001_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56,13 +56,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1994455756721469104}
-  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
-  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalRotation: {x: -0, y: -0, z: 0.121842906, w: -0.9925494}
+  m_LocalPosition: {x: -2.74, y: -0.29, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 5794506507194880461}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -13.997}
 --- !u!33 &8146854686642110082
 MeshFilter:
   m_ObjectHideFlags: 0
