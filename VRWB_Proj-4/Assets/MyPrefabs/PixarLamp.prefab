@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6921364848190219708}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: bone2_04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43,7 +43,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5535846828770572778}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76,7 +76,7 @@ GameObject:
   - component: {fileID: 2349881087331565806}
   - component: {fileID: 6237533240690261135}
   - component: {fileID: 734951921375301634}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached26_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -155,7 +155,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7445048293559434864}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: bone_018
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -192,7 +192,7 @@ GameObject:
   - component: {fileID: 9166847303612060506}
   - component: {fileID: 6701522030021213510}
   - component: {fileID: 292928843280112090}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached19_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -271,7 +271,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5883223771191341335}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -302,7 +302,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1467858689936910672}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -333,7 +333,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8331530940795495615}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -366,7 +366,7 @@ GameObject:
   - component: {fileID: 4966838657035070708}
   - component: {fileID: 4937210721848585002}
   - component: {fileID: 7242792877797805101}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached24_Lamp Finish_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -447,7 +447,7 @@ GameObject:
   - component: {fileID: 1189995986681922736}
   - component: {fileID: 1859833568454759509}
   - component: {fileID: 3451666752429148141}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached17_Lamp Finish_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -528,7 +528,7 @@ GameObject:
   - component: {fileID: 8703519014588963374}
   - component: {fileID: 9150297765032613726}
   - component: {fileID: 471835532791489541}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_Shiny Plastic_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -609,7 +609,7 @@ GameObject:
   - component: {fileID: 4786203728641428175}
   - component: {fileID: 2383238823875209545}
   - component: {fileID: 945396767209206909}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached22_c4f5f9_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -688,7 +688,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4225553043678149031}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: bone3_NeutralPose_05
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -721,7 +721,7 @@ GameObject:
   - component: {fileID: 3497403123599128972}
   - component: {fileID: 8744935941565083137}
   - component: {fileID: 8147191108082345448}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached7_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -800,7 +800,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4782871155525157960}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: SpotLight1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -831,7 +831,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4639679616148453264}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -862,7 +862,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1493835826090607979}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: root1_00
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -894,7 +894,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7438401338997101871}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: null_012
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -931,7 +931,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 726937592356659626}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Object_85
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -963,7 +963,7 @@ GameObject:
   - component: {fileID: 4257471785555003514}
   - component: {fileID: 8607169841407008092}
   - component: {fileID: 6260189146800558616}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached8_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1042,7 +1042,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 473697598031575578}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1075,7 +1075,7 @@ GameObject:
   - component: {fileID: 6154831864956789073}
   - component: {fileID: 3285834395655175915}
   - component: {fileID: 3977949489390017880}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached11_Lamp Finish_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1154,7 +1154,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8246531921490283430}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: bone5_NeutralPose_09
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1185,7 +1185,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6508288994561004807}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1218,7 +1218,7 @@ GameObject:
   - component: {fileID: 7832674604868943185}
   - component: {fileID: 3331518992006146450}
   - component: {fileID: 4718690646544640725}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached30_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1299,7 +1299,7 @@ GameObject:
   - component: {fileID: 1365122664710411700}
   - component: {fileID: 1112968174424093879}
   - component: {fileID: 29704367559836481}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached6_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1378,7 +1378,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6744565519742942900}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: bone3_06
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1412,7 +1412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9085448515425523640}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: bone2_NeutralPose_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1445,7 +1445,7 @@ GameObject:
   - component: {fileID: 4703006535753178378}
   - component: {fileID: 7938548094601496456}
   - component: {fileID: 2165707776432867075}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached1_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1524,7 +1524,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 177854039569242919}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1557,7 +1557,7 @@ GameObject:
   - component: {fileID: 8434945634240689112}
   - component: {fileID: 3095638932128668348}
   - component: {fileID: 7151519101411893901}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Head_Lamp_Inner_Lamp Head Interior_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1636,7 +1636,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3315218613710717365}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1669,7 +1669,7 @@ GameObject:
   - component: {fileID: 865500151475935696}
   - component: {fileID: 2361075628975432811}
   - component: {fileID: 416636293737236682}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh1_Shiny Plastic_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1750,7 +1750,7 @@ GameObject:
   - component: {fileID: 5746488298469364079}
   - component: {fileID: 6695031558488789214}
   - component: {fileID: 5624592874022712470}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh2_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1829,7 +1829,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3599011738478100189}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1860,7 +1860,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7257671391644949394}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1891,7 +1891,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1089191263683384059}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Object_84
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1922,7 +1922,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7937251317566284417}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1953,7 +1953,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7034470521252216263}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: RootNode
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1984,7 +1984,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7976582331048308504}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: bone4_NeutralPose_07
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2015,7 +2015,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2937959220880663188}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2046,7 +2046,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2414968667255351046}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2079,7 +2079,7 @@ GameObject:
   - component: {fileID: 2050536430042797917}
   - component: {fileID: 4926886935465368715}
   - component: {fileID: 2928938750188746378}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Light_Bulb_Bulb_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2160,7 +2160,7 @@ GameObject:
   - component: {fileID: 6406061537035230443}
   - component: {fileID: 4476100469388285303}
   - component: {fileID: 4625132156716307233}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached4_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2239,7 +2239,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 553097714882019593}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: root_016
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2270,7 +2270,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3977154597125099056}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2303,7 +2303,7 @@ GameObject:
   - component: {fileID: 5535340611933980396}
   - component: {fileID: 3175106044103474415}
   - component: {fileID: 6520551572746754340}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached32_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2382,7 +2382,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 820423105086496947}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2415,7 +2415,7 @@ GameObject:
   - component: {fileID: 2698823965880366873}
   - component: {fileID: 3649488470984623517}
   - component: {fileID: 5146325176160830154}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached23_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2494,7 +2494,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2125164381598909074}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached99
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2527,7 +2527,7 @@ GameObject:
   - component: {fileID: 3922615710744458742}
   - component: {fileID: 8551032588453998383}
   - component: {fileID: 5117886790946250946}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached27_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2606,7 +2606,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4372753987933147576}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: eff1_011
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2636,7 +2636,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9119492525759804868}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: null3_NeutralPose_013
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2667,7 +2667,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5954091705741549296}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2698,7 +2698,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 332856255095684190}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: bone4_08
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2735,7 +2735,7 @@ GameObject:
   - component: {fileID: 983847163397120619}
   - component: {fileID: 4806538344563536337}
   - component: {fileID: 4848434951452597668}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached29_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2816,7 +2816,7 @@ GameObject:
   - component: {fileID: 3426271679241959719}
   - component: {fileID: 8380968680673257582}
   - component: {fileID: 7010712344313500046}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached34_Lamp Finish_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2897,7 +2897,7 @@ GameObject:
   - component: {fileID: 8837614521237390466}
   - component: {fileID: 7279675028081284486}
   - component: {fileID: 4663857390410263533}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached25_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2976,7 +2976,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 960322890950040735}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3007,7 +3007,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4960993423241559302}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: bone1_NeutralPose_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3038,7 +3038,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4672888580672827332}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3070,7 +3070,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3631951322618423791}
   - component: {fileID: 2139131045}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: PixarLamp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3100,7 +3100,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6033707764232827199}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 9065cc4ed0da9844f8433ae5769d983d, type: 2}
   m_CullingMode: 0
@@ -3120,7 +3120,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2956688297926877249}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3153,7 +3153,7 @@ GameObject:
   - component: {fileID: 2762428132827356270}
   - component: {fileID: 2848870090242829798}
   - component: {fileID: 3261102226283842402}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached16_Lamp Finish_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3232,7 +3232,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1345129300603299755}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3263,7 +3263,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9153308028964942116}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3296,7 +3296,7 @@ GameObject:
   - component: {fileID: 877679910951508012}
   - component: {fileID: 4379555293532151836}
   - component: {fileID: 7176307311535198246}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached31_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3377,7 +3377,7 @@ GameObject:
   - component: {fileID: 5059287926622288770}
   - component: {fileID: 9166851826285903066}
   - component: {fileID: 9111811981132452901}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached_Lamp Finish_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3456,7 +3456,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7281180055675053933}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3487,7 +3487,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9002551028944702592}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: null3_014
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3518,7 +3518,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3755563404655305376}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: bone5_010
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3552,7 +3552,7 @@ GameObject:
   - component: {fileID: 2542989206769135590}
   - component: {fileID: 815545437674636409}
   - component: {fileID: 3326518772686898420}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached99_Lamp Finish_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3631,7 +3631,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5853914377182613770}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: bone1_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3670,7 +3670,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2215082643796447129}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Head_Lamp_Inner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3702,7 +3702,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6191989920978146158}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: null2_015
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3738,7 +3738,7 @@ GameObject:
   - component: {fileID: 2678434484133887820}
   - component: {fileID: 7931178892462927413}
   - component: {fileID: 8714188059083958186}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached2_Lamp Finish_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3817,7 +3817,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4044409750392008077}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: eff_019
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3847,7 +3847,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6461608288082509893}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached29
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3880,7 +3880,7 @@ GameObject:
   - component: {fileID: 2904100610463465134}
   - component: {fileID: 7118955330540581006}
   - component: {fileID: 8392237502733255455}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached10_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3959,7 +3959,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6797178154174423870}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Light_Bulb
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3990,7 +3990,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 15591392022499752}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4021,7 +4021,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4448147506626557608}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4052,7 +4052,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1651903007031656824}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4085,7 +4085,7 @@ GameObject:
   - component: {fileID: 1032041926822634435}
   - component: {fileID: 6764092485925722881}
   - component: {fileID: 6239708236297745028}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached9_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4164,7 +4164,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7560094604628519507}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4197,7 +4197,7 @@ GameObject:
   - component: {fileID: 5381782242841593529}
   - component: {fileID: 542956120938723219}
   - component: {fileID: 6846505263908102766}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached28_Lamp Finish_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4276,7 +4276,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6784813851592404468}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4307,7 +4307,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2444250740681100663}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: _rootJoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4340,7 +4340,7 @@ GameObject:
   - component: {fileID: 7090361779050394231}
   - component: {fileID: 5563866064898921601}
   - component: {fileID: 4460488564731767884}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: polymsh_detached13_Silver_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4419,7 +4419,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5697522941747726197}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: bone_NeutralPose_017
   m_TagString: Untagged
   m_Icon: {fileID: 0}
